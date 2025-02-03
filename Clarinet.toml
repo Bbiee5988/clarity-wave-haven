@@ -4,6 +4,10 @@ authors = []
 description = ""
 telemetry = false
 requirements = []
+[contracts.wave-haven]
+path = "contracts/wave-haven.clar"
+depends_on = []
+
 [contracts.wave-token]
 path = "contracts/wave-token.clar"
 depends_on = []
